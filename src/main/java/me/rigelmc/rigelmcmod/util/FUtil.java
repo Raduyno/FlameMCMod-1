@@ -40,7 +40,7 @@ public class FUtil
     // Leave the DEVELOPERS List alone, those are the TotalFreedom Developers.
     // If a new DEVELOPER is added, list them under the UMCDEVS List.
     public static final List<String> DEVELOPERS = Arrays.asList("Madgeek1450", "Prozza", "Wild1145", "WickedGamingUK", "aggelosQQ");
-    public static final List<String> UMCDEVS = Arrays.asList("OxLemonxO", "Pinchyy", "SkunkSmasher", "Commodore64x", "santadeath");
+    public static final List<String> UMCDEVS = Arrays.asList("Hitzz", "ChaoticBucky", "Pug"); //you may change this
     public static String DATE_STORAGE_FORMAT = "EEE, d MMM yyyy HH:mm:ss Z";
     public static final Map<String, ChatColor> CHAT_COLOR_NAMES = new HashMap<>();
     public static final List<ChatColor> CHAT_COLOR_POOL = Arrays.asList(
